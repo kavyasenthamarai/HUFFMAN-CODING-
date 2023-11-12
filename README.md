@@ -28,7 +28,7 @@ Register No: 212222230065
 ```
 ### Get the input String
 ```python
-string = 'GURUMOORTHI R 212222230042'
+string = 'KAVYA K 212222230065'
 class NodeTree(object):
     def __init__(self, left=None, right=None):
         self.left = left
